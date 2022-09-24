@@ -20,7 +20,7 @@
 
             COMPUTE WS-N3 = WS-N1 + WS-N2
 
-            DISPLAY "O RESULTADO EH: " WS-N3
+            DISPLAY "O RESULTADO É: " WS-N3
 
             STOP RUN.
        END PROGRAM DEMONSTRACAO.
